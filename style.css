@@ -1,0 +1,8 @@
+body{
+    background: url(modelo1.jpg);
+}
+.mv-auto{
+    min-height: 100vh;
+    display: flex;
+    align-items: left;
+}
